@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1558395008 source:/ice/Downloads/Aula08/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"ListaDupla.h"
+
+1558395607 /ice/Downloads/Aula08/ListaDupla.h
+	"NoDuplo.h"
+
+1526870650 /ice/Downloads/Aula08/NoDuplo.h
+
+1558394973 source:/ice/Downloads/Aula08/ListaDupla.cpp
+	<iostream>
+	<cstdlib>
+	"ListaDupla.h"
+
